@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="update">UPDATE</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="marker_title">My Marker Title</string>
+    <string name="marker_description">My Marker Description</string>
+</resources>
